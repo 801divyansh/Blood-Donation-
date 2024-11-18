@@ -21,7 +21,7 @@ const Footer = () => {
             <div className="flex items-center space-x-8">
               {/* <ThemeToggler/> */}
               <Link
-                href="https://github.com/divyansh86"
+                href="https://github.com/801divyansh"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transform hover:-translate-y-1 transition-transform duration-300"
